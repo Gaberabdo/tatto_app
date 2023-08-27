@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967834187973",
+    "project_id": "tatto-f6d81",
+    "storage_bucket": "tatto-f6d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967834187973:android:b8abe3cf86d61c0f1e58ac",
+        "android_client_info": {
+          "package_name": "com.example.tattoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967834187973-26e6mn359avuemh87s2oqfuu5sjo100m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVq-wdlZGfUsKjslyubFVeeRI69EDsY34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967834187973-26e6mn359avuemh87s2oqfuu5sjo100m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
